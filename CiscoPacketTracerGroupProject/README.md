@@ -157,7 +157,6 @@ Create a user account with privilege level and password using the "username" com
 Finally, enable SSH login using the "line vty" command to access the virtual terminal lines, and specify the transport input as SSH.
 
 
-// More to add Its Olga:
 # Building VLAN's
 # Step 1: **Determine VLAN Requirements**
 
